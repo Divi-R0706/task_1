@@ -16,15 +16,5 @@ This project demonstrates how to perform basic network reconnaissance using **Nm
 - IP Address: `192.168.40.129`
 - Subnet: `255.255.255.0` → CIDR: `/24`
 ------------
-## 🧭 Steps Followed
-### 1. ✅ Installed Nmap
-sudo apt update && sudo apt install nmap
--------
-Found My Local IP and Subnet
-ifconfig
-IP: 192.168.40.129
-Subnet: 255.255.255.0 → Network: 192.168.40.0/24
-🚀 Ran TCP SYN Scan on Local Network
-sudo nmap -sS 192.168.40.0/24
 
 
