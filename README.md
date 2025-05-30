@@ -1,4 +1,4 @@
-# task_1
+
 # 🔍 Local Network Port Scanning with Nmap
 This project demonstrates how to perform basic network reconnaissance using **Nmap** to scan your **local network** for open ports and services. The goal is to understand network exposure and identify potential vulnerabilities.
 ## 📌 Objective
